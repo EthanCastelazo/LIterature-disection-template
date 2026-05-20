@@ -1,8 +1,8 @@
 ---
 title: "Literature dissection"
 subtitle: "Spring 2026"
-author: "insert author names here"
-date: "insert date here"
+author: "Alex Gonzales, Ethan Castelazo, and Zelda Reiff"
+date: "5/20/2026"
 format: 
   pdf:
     toc: true
@@ -29,12 +29,12 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| 42                 | April 2025       | Spring           | South              | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677759503) |
+| 42                 | October 2024     | Fall             | South              | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687221407621) |
+| 42                 | April 2025       | Spring           | North East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677457084) |
+| 42                 | October 2024     | Fall             | North East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687228662238) |
+| 42                 | April 2025       | Spring           | South East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055670082237) |
+| 42                 | October 2024     | Fall             | South East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687230621022)|
 
 8.  Describe in 5-7 sentences total:
 
