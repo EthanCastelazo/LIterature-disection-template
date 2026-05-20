@@ -60,19 +60,19 @@ As a group:
 
 ## Report or poster information
 
-Title:
+Title: Bird Community Analysis Report 1967–2015
 
-Authors:
+Authors: Karen A. Stahlheber
 
-Year published:
+Year published: 2015
 
-Permalink:
+Permalink: [here](https://escholarship.org/uc/item/1sg3v19d)
 
-Dataset used (likely):
+Dataset used: Section 5 – Diversity and Abundance by Location, Figures 5.1, 5.2, 5.3, 5.4
 
-Key insights:
+Key insights: Comparison of species abundance between shorebirds and ducks (within waterfowl taxon) through time at Deveruex Slough. Shorebird abundance typically higher than duck species abundance in more recent years at Devereux Slough.
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+Relevance to your study: Our question asks how changes in water elevation affect species abundance within the Shorebird and Waterfowl taxons; this report provides general abundance patterns through time at Devereux Slough that we can use to compare to our abundance patterns in relation to water elevation.
 
 # Annotated bibliography
 
