@@ -44,6 +44,8 @@ As a group:
 -   how that photo point is relevant to your study
 -   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
+We chose to examine photos from water year 2025, which started on October 1st 2024 and ended on September 30th 2025. Our study is focused on how water elevation's relationship to bird abundance, specifically in water year 2025, so photos from Fall 2024 and Spring 2025 are most relevant. We selected photo point 42, positioned on the Northern end of NCOS along the West Elings Marsh trail, because its photos capture a broad landscape of the slough's profile, and water elevation is easily observable from that perspective. 
+
 # Reports or posters
 
 Individually:
@@ -60,19 +62,19 @@ As a group:
 
 ## Report or poster information
 
-Title: Bird Community Analysis Report 1967–2015
+Title:
 
-Authors: Karen A. Stahlheber
+Authors:
 
-Year published: 2015
+Year published:
 
-Permalink: [here](https://escholarship.org/uc/item/1sg3v19d)
+Permalink:
 
-Dataset used: Section 5 – Diversity and Abundance by Location, Figures 5.1, 5.2, 5.3, 5.4
+Dataset used (likely):
 
-Key insights: Comparison of species abundance between shorebirds and ducks (within waterfowl taxon) through time at Deveruex Slough. Shorebird abundance typically higher than duck species abundance in more recent years at Devereux Slough.
+Key insights:
 
-Relevance to your study: Our question asks how changes in water elevation affect species abundance within the Shorebird and Waterfowl taxons; this report provides general abundance patterns through time at Devereux Slough that we can use to compare to our abundance patterns in relation to water elevation.
+Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
 
 # Annotated bibliography
 
