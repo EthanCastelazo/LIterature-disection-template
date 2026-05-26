@@ -62,17 +62,17 @@ As a group:
 
 ## Report or poster information
 
-Title:
+Title: Bird Community Analysis Report 1967–2015
 
-Authors:
+Authors: Karen A. Stahlheber
 
-Year published:
+Year published: 2015
 
-Permalink:
+Permalink: [here](https://escholarship.org/uc/item/1sg3v19d)
 
-Dataset used (likely):
+Dataset used (likely): Table 3.3 (Common and abundant species at selected sites in surveys from 1990 to 2014), 
 
-Key insights:
+Key insights: 
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
 
