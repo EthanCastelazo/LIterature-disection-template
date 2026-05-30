@@ -28,7 +28,7 @@ As a group:
 ## Table
 
 | Photo point number | Date of photo | Season | Direction of photo | Link to photo |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:---|:---|:---|:---|:---|
 | 42 | April 2025 | Spring | South | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677759503) |
 | 42 | October 2024 | Fall | South | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687221407621) |
 | 42 | April 2025 | Spring | North East | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677457084) |
@@ -165,13 +165,13 @@ Relevance to study (2-4 sentences): We are plotting species abundance on waterfo
 
 ### Paper 7
 
-Title:
+Title: Waterbird Communities in Managed Wetlands of Varying Water Depth
 
-Authors:
+Authors: Colwell, M.A.
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In this study, scientists found a strong correlation between bird abundance and water depth, specifically that to promote the greatest species abundance and density, managed wetlands should flood to about 10-20 cm for variable depths that support a variety of species (citation). This is mainly due to the fact that wading birds and waterfowl have the ecological niche of shallower water while other driving species are better suited to deeper water.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Since we are focusing on waterfowl and shorebird species, we can consider the conclusion that shallower water elevations support greater species abundance across all measured species. We can compare this metric to our own data to better articulate possible contributors to trends in abundance.
 
 ### Paper 8
 
