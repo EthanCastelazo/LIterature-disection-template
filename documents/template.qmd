@@ -38,11 +38,11 @@ As a group:
 
 8.  Describe in 5-7 sentences total:
 
-- which water year you chose to examine
-- how that water year is relevant to your study
-- which photo point you chose to examine
-- how that photo point is relevant to your study
-- what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+-   which water year you chose to examine
+-   how that water year is relevant to your study
+-   which photo point you chose to examine
+-   how that photo point is relevant to your study
+-   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
 We chose to examine photos from water year 2025, which started on October 1st 2024 and ended on September 30th 2025. Our study is focused on how water elevation's relationship to bird abundance, specifically in water year 2025, so photos from Fall 2024 and Spring 2025 are most relevant. We selected photo point 42, positioned on the Northern end of NCOS along the West Elings Marsh trail, because its photos capture a broad landscape of the slough's profile, and water elevation is easily observable from that perspective.
 
@@ -193,11 +193,9 @@ Title: Trends in abundance of wintering waterbirds relative to rainfall patterns
 
 Authors: Stenzel, Page
 
-Main findings (2-4 sentences): In this 2 period study on waterbird abundance patterns at Bolinas Lagoon located in Central California, researchers found a negative relationship between precipitation and waterbird abundance. Flooded ricefields and restored wetlands located in inland Central California, both of which are more prominent with high rainfall, caused coastal waterbirds to migrate more inland than stay at Bolinas Lagoon. 22 taxa used flooded ricefields as an alternative habitat with 12 out of the 22 taxa consistently shifting to ricefields when they flood, this suggests that local Bolinas waterbird distribution is linked to increased inland ricefield flooding.
-
+Main findings (2-4 sentences): In this 2 period study on waterbird abundance patterns at Bolinas Lagoon located in Central California, researchers found a negative relationship between precipitation and waterbird abundance (@stenzel2017). Flooded ricefields and restored wetlands located in inland Central California, both of which are more prominent with high rainfall, caused coastal waterbirds to migrate more inland than stay at Bolinas Lagoon. 22 taxa used flooded ricefields as an alternative habitat with 12 out of the 22 taxa consistently shifting to ricefields when they flood, this suggests that local Bolinas waterbird distribution is linked to increased inland ricefield flooding.
 
 Relevance to study (2-4 sentences): While our study examines the relationship between water elevation and waterfowl abundance, rainfall patterns are strictly tied to water elevation. Therefore, if water elevation increases and waterfowl abundance decreases, this doesn’t automatically correlate with local conditions not being good enough, but it could mean that other habitats inland have been established.
-
 
 ### Paper 10
 
@@ -205,21 +203,23 @@ Title: Modeling the Relationship between Water Level, Wild Rice Abundance, and W
 
 Authors: Kevin Aagaard, Josh Eash, Walt Ford, Patricia J. Heglund, Michelle McDowell & Wayne E. Thogmartin
 
-Main findings (2-4 sentences): This study took place at the Rice Lake Nation Wildlife Refuge in east Minnesota in the years 1990-2012 observing correlation between wild rice abundance and waterfowl from Spring to Fall. In this survey, no significant evidence was found that the wild rice was increasing waterfowl abundance in the refuge because wild rice is only a portion of the waterfowl diet, and this survey did not take place during peak wild rice growing season. Water elevation however, is directly correlated with wild rice abundance.
+Main findings (2-4 sentences): This study took place at the Rice Lake Nation Wildlife Refuge in east Minnesota in the years 1990-2012 observing correlation between wild rice abundance and waterfowl from Spring to Fall (@aagaard2018). In this survey, no significant evidence was found that the wild rice was increasing waterfowl abundance in the refuge because wild rice is only a portion of the waterfowl diet, and this survey did not take place during peak wild rice growing season. Water elevation however, is directly correlated with wild rice abundance.
 
 Relevance to study (2-4 sentences): Since waterfowl abundance was not influenced by wild rice abundance from Spring-Fall, this provides evidence that any decline of waterfowl in NCOS isn’t attributed to the abundance of wild rice at in-land habitats. However, since wild rice growth is directly linked to water elevation, this effect can be more pronounced in the winter season when rainfall occurs often.
 
 ### Paper 11
 
-Title:  Interspecific Differences in Habitat Use of Shorebirds and Waterfowl Foraging in Managed Wetlands of California's San Joaquin Valley
+Title: Interspecific Differences in Habitat Use of Shorebirds and Waterfowl Foraging in Managed Wetlands of California's San Joaquin Valley
 
 Authors: Isola, C.R., Colwell, M.A., Taft, O.W., and Safran, R.J.
 
 Main findings (2-4 sentences): This study found that there is high variability between shorebirds and waterfowl with preferred water elevations. Sandpipers prefer 1–1.3 cm, within 10 m of the water's edge. Dunlin, Dowitchers, Black-necked Stilt, and the American Avocet prefer 3–9.5 cm, roughly 15–20 m from the edge. Green-winged teal prefers 13 cm, about 33 m from the edge. And finally the Northern Shoveler, Northern Pintail, and Gadwall prefer 22–25 cm, more than 45 m from the edge.
 
+Relevance to study (2-4 sentences): Water elevation is our studied variable between waterfowl and shorebirds, since both taxonomic groups exhibit different preferences of water elevation, this highlights variability between their response to water elevation. Waterfowl may especially be sensitive to low water elevation periods because they prefer higher water elevations than shorebirds.
 
-Relevance to study (2-4 sentences): Water elevation is our studied variable between waterfowl and shorebirds, since both taxonomic groups exhibit different preferences of water elevation, this highlights variability between their response to water elevation. Waterfowl may especially be sensitive to low water elevation periods because they prefer higher water elevations than shorebirds. 
+*Could not find DOI for this report
 
+<https://www.jstor.org/stable/4641140?seq=1>
 
 ### Paper 12
 
@@ -227,10 +227,8 @@ Title: Monitoring Species Richness and Abundance of Shorebirds in the Western Gr
 
 Authors: Nils Warnock, Susan M. Haig
 
-Main findings (2-4 sentences): Although year to year variability of shorebird counts were extreme when observed in wetlands of the Western Great Basin, the general consensus from this study is that different shorebird species prefer different water elevations. However, these preferences are strict because of the length of the species’ bill and legs. Additionally, the study found that both ground surveys and aerial surveys alone are insufficient: ground surveys capture species diversity while being unable to estimate population size while aerial surveys provide the opposite information.
-
+Main findings (2-4 sentences): Although year to year variability of shorebird counts were extreme when observed in wetlands of the Western Great Basin, the general consensus from this study is that different shorebird species prefer different water elevations (@warnock1998). However, these preferences are strict because of the length of the species’ bill and legs. Additionally, the study found that both ground surveys and aerial surveys alone are insufficient: ground surveys capture species diversity while being unable to estimate population size while aerial surveys provide the opposite information.
 
 Relevance to study (2-4 sentences): The data of NCOS bird counts itself may be skewed if ground and aerial surveys were not taken in tandem, just as this Great Basin survey found. Additionally, this study provides further evidence that shorebirds are sensitive to different water elevations, with some species utilizing shallower depths than others, therefore exemplifying the sensitivity of shorebird abundance to water elevation.
-
 
 # References
