@@ -28,7 +28,7 @@ As a group:
 ## Table
 
 | Photo point number | Date of photo | Season | Direction of photo | Link to photo |
-|:---|:---|:---|:---|:---|
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 | 42 | April 2025 | Spring | South | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677759503) |
 | 42 | October 2024 | Fall | South | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687221407621) |
 | 42 | April 2025 | Spring | North East | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677457084) |
@@ -175,13 +175,13 @@ Relevance to study (2-4 sentences): Since we are focusing on waterfowl and shore
 
 ### Paper 8
 
-Title:
+Title: Habitat quality and drought effects on breeding mallard and other waterfowl populations in California, USA
 
-Authors:
+Authors: Kahara, Sharon
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): California supports up to 500,000 waterfowl individuals in the spring and summer months, but reduced precipitation and melting snowpacks have contributed to decreased water elevations and a general reduction in wetland breeding habitats (@kahara2021). Contributors to this study proposed that habitat reduction that leads to overcrowding may also have negative effects on populations like disease and resource depletion.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This report provides seasonal data (spring and summer) on waterfowl abundance that we can consider when analyzing our own species abundance data. In other words, we may expect higher waterfowl species abundance in the spring and summer months. However, abundance may also be influenced by other ecological factors that differ from this specific report including land area, vegetation cover, etc.
 
 ### Paper 9
 
