@@ -38,11 +38,11 @@ As a group:
 
 8.  Describe in 5-7 sentences total:
 
--   which water year you chose to examine
--   how that water year is relevant to your study
--   which photo point you chose to examine
--   how that photo point is relevant to your study
--   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+- which water year you chose to examine
+- how that water year is relevant to your study
+- which photo point you chose to examine
+- how that photo point is relevant to your study
+- what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
 We chose to examine photos from water year 2025, which started on October 1st 2024 and ended on September 30th 2025. Our study is focused on how water elevation's relationship to bird abundance, specifically in water year 2025, so photos from Fall 2024 and Spring 2025 are most relevant. We selected photo point 42, positioned on the Northern end of NCOS along the West Elings Marsh trail, because its photos capture a broad landscape of the slough's profile, and water elevation is easily observable from that perspective.
 
@@ -145,23 +145,21 @@ Relevance to study (2-4 sentences): This paper provides good empirical support f
 
 ### Paper 5
 
-Title:
+Title: eBird Data Highlight Shifts in Wetland Resources Structuring Waterfowl and Shorebird Abundance
 
-Authors:
+Authors: Donnelly, Patrick
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In this study, researchers determined that gradual losses in wetland land area in the western U.S. due to increasing drought conditions correlate to lower bird species abundance as measured through shorebird and waterfowl species (@donnelly2026). For many wetland dependent species, often species that migrate to these areas for reproduction, measured wetland loss (19-48% loss in the past 20 years) and predicted wetland area loss in the near future will show significant decreases in waterfowl and shorebird species.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Although our project is focused on bird abundance at NCOS, a designated wetland conservation area, insights about the correlation between wetlands and bird species abundance add important context about abundance levels possible in healthy wetland ecosystems to the abundance data we present. These insights provide valuable ecological insights to our own data, emphasizing the importance of the conservation efforts at NCOS.
 
-### Paper 6
+Title: Quantifying shorebird habitat in managed wetlands by modeling shallow water depth dynamics
 
-Title:
+Authors: Schaffer-Smith, Danica
 
-Authors:
+Main findings (2-4 sentences): Scientists can measure water depth with satellite imagery and high-resolution topography to determine the most suitable water depth ranges and broader habitat availability (@schaffer-smith2018). In this study, scientists found that moderate water depths (not extremely shallow or deep) had the highest habitat potential for shorebird species and even asserted that strategic maintenance of water levels could increase habitat suitability for birds.
 
-Main findings (2-4 sentences):
-
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): We are plotting species abundance on waterfowl and shorebird species in relation to water elevation. This report provides important insights into possible abundance patterns due to differences in water elevation; we may expect higher species abundance in the mid-range of water elevation as opposed to the shallower or deeper elevations.
 
 ### Paper 7
 
