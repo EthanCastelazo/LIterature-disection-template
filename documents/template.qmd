@@ -38,11 +38,11 @@ As a group:
 
 8.  Describe in 5-7 sentences total:
 
--   which water year you chose to examine
--   how that water year is relevant to your study
--   which photo point you chose to examine
--   how that photo point is relevant to your study
--   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+- which water year you chose to examine
+- how that water year is relevant to your study
+- which photo point you chose to examine
+- how that photo point is relevant to your study
+- what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
 We chose to examine photos from water year 2025, which started on October 1st 2024 and ended on September 30th 2025. Our study is focused on how water elevation's relationship to bird abundance, specifically in water year 2025, so photos from Fall 2024 and Spring 2025 are most relevant. We selected photo point 42, positioned on the Northern end of NCOS along the West Elings Marsh trail, because its photos capture a broad landscape of the slough's profile, and water elevation is easily observable from that perspective.
 
@@ -70,12 +70,11 @@ Year published: 2015
 
 Permalink: [here](https://escholarship.org/uc/item/1sg3v19d)
 
-Dataset used (likely): Table 3.3 (Common and abundant species at selected sites in surveys from 1990 to 2014), 
+Dataset used (likely): Table 3.3 (Common and abundant species at selected sites in surveys from 1990 to 2014),
 
 Key insights: Single-day and mean abundances of bird species across locations at NCOS from 1990-2014. The species with the highest mean abundances at each site are, for the most part, not within the taxon we are focusing on (shorebirds and waterfowl). However, the single-day abundance data provides us with some valuable metrics to compare our own data to, it provides abundance measurements for a variety of sandpiper species (shorebirds) and geese (waterfowl). Across all species, the waterfowl and shorebird taxons did not display the most abundant species at any location, but just comparing the two taxonomic groups, shorebird species were generally more abundant than waterfowl species.
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): Our plots are visualizing bird species abundance within the waterfowl and shorebird taxonomic groups at NCOS, in relation to water elevation. We also have subplots that compare species abundance between shorebirds and waterfowl through time. This report provides relevant species abundance information at NCOS, which we can compare to our plots to identify changes and trends through time. It is important to acknowledge that this figure does not include abundance data for every species across every site and only includes data from 1990-2014.
-
 
 # Annotated bibliography
 
@@ -146,13 +145,13 @@ Relevance to study (2-4 sentences):
 
 ### Paper 5
 
-Title:
+Title: eBird Data Highlight Shifts in Wetland Resources Structuring Waterfowl and Shorebird Abundance
 
-Authors:
+Authors: Donnelly, Patrick
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In this study, researchers determined that gradual losses in wetland land area in the western U.S. due to increasing drought conditions correlate to lower bird species abundance as measured through shorebird and waterfowl species (@donnelly2026). For many wetland dependent species, often species that migrate to these areas for reproduction, measured wetland loss (19-48% loss in the past 20 years) and predicted wetland area loss in the near future will show significant decreases in waterfowl and shorebird species.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Although our project is focused on bird abundance at NCOS, a designated wetland conservation area, insights about the correlation between wetlands and bird species abundance add important context about abundance levels possible in healthy wetland ecosystems to the abundance data we present. These insights provide valuable ecological insights to our own data, emphasizing the importance of the conservation efforts at NCOS.
 
 ### Paper 6
 
