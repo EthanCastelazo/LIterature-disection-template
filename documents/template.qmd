@@ -135,9 +135,9 @@ Relevance to study (2-4 sentences): This publication is centered mostly on model
 
 ### Paper 4
 
-Title:
+Title: "Effects of water level on waterbird abundance and diversity along the middle section of the Danube River"
 
-Authors:
+Authors: Farago and Katalin
 
 Main findings (2-4 sentences): In this long-term study conducted along an 83 km stretch of the Danube River, researchers found that total waterbird abundance was negatively correlated with water level throughout the water year [@faragó2012]. During flood events, dabbling ducks dispersed to peripheral waters outside the survey area, while diving ducks abandoned the study reach entirely due to reduced foraging efficiency in the intense flood waters. High water levels were also found to eliminate key micro habitats such as gravel banks, shoals, and paved riverbanks, creating conditions broadly unfavorable for most waterbird species.
 
