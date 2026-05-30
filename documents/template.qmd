@@ -141,7 +141,7 @@ Authors: Farago and Katalin
 
 Main findings (2-4 sentences): In this long-term study conducted along an 83 km stretch of the Danube River, researchers found that total waterbird abundance was negatively correlated with water level throughout the water year [@faragó2012]. During flood events, dabbling ducks dispersed to peripheral waters outside the survey area, while diving ducks abandoned the study reach entirely due to reduced foraging efficiency in the intense flood waters. High water levels were also found to eliminate key micro habitats such as gravel banks, shoals, and paved riverbanks, creating conditions broadly unfavorable for most waterbird species.
 
-Relevance to study (2-4 sentences): This paper provides good empirical support for a negative relationship between elevated water levels and waterbird abundance, which is directly relevant to interpreting abundance trends at Devereux Slough as water elevation fluctuates across the water year. The study's distinction between dabbling ducks and diving ducks in their responses to high water is particularly useful for our research, because it highlights that different  groups within waterfowl respond to hydrologic change in different ways. We should keep in mind, however, that the Danube is a large, fast-flowing river system whose hydrology differs significantly from the shallow, tidally influenced conditions of NCOS, so the mechanisms driving abundance declines may not translate directly to our study site.
+Relevance to study (2-4 sentences): This paper provides good empirical support for a negative relationship between elevated water levels and waterbird abundance, which is directly relevant to interpreting abundance trends at Devereux Slough as water elevation fluctuates across the water year. The study's distinction between dabbling ducks and diving ducks in their responses to high water is particularly useful for our research, because it highlights that different groups within waterfowl respond to hydrologic change in different ways. We should keep in mind, however, that the Danube is a large, fast-flowing river system whose hydrology differs significantly from the shallow, tidally influenced conditions of NCOS, so the mechanisms driving abundance declines may not translate directly to our study site.
 
 ### Paper 5
 
@@ -152,6 +152,8 @@ Authors: Donnelly, Patrick
 Main findings (2-4 sentences): In this study, researchers determined that gradual losses in wetland land area in the western U.S. due to increasing drought conditions correlate to lower bird species abundance as measured through shorebird and waterfowl species (@donnelly2026). For many wetland dependent species, often species that migrate to these areas for reproduction, measured wetland loss (19-48% loss in the past 20 years) and predicted wetland area loss in the near future will show significant decreases in waterfowl and shorebird species.
 
 Relevance to study (2-4 sentences): Although our project is focused on bird abundance at NCOS, a designated wetland conservation area, insights about the correlation between wetlands and bird species abundance add important context about abundance levels possible in healthy wetland ecosystems to the abundance data we present. These insights provide valuable ecological insights to our own data, emphasizing the importance of the conservation efforts at NCOS.
+
+### Paper 6
 
 Title: Quantifying shorebird habitat in managed wetlands by modeling shallow water depth dynamics
 
