@@ -122,7 +122,7 @@ Authors: Rajpar, Zakaria
 
 Main findings (2-4 sentences): In this study conducted in Peninsular Malaysia, researchers found water level to be a major factor that influences the relative abundance and distribution of ducks [@rajpar2011a], along with many other families of bird that are not relevant to our study. Water elevation directly effects aquatic vegetation composition, which in turn determines the hunting and nesting patterns of waterbirds, therefore water level reflects the status/quality of habitat for waterbirds at a given time.
 
-Relevance to study (2-4 sentences): Although this research was conducted in a distant region whose wetland species composition differs greatly from that of the Devereux Slough, these findings connect the dots between aquatic vegetation, water level, and waterbird abundance. This paper reminds us that we must consider *all* factors that play a role in determining bird abundance, including aquatic vegetation dynamics, when contextualizing our own findings, even though vegetation may not be included in our research quesitons.
+Relevance to study (2-4 sentences): Although this research was conducted in a distant region whose wetland species composition differs greatly from that of the Devereux Slough, these findings connect the dots between aquatic vegetation, water level, and waterbird abundance. This paper reminds us that we must consider *all* factors that play a role in determining bird abundance, including aquatic vegetation dynamics, when contextualizing our own findings, even though vegetation may not be included in our research questions.
 
 ### Paper 3
 
