@@ -211,13 +211,15 @@ Relevance to study (2-4 sentences): Since waterfowl abundance was not influenced
 
 ### Paper 11
 
-Title:
+Title:  Interspecific Differences in Habitat Use of Shorebirds and Waterfowl Foraging in Managed Wetlands of California's San Joaquin Valley
 
-Authors:
+Authors: Isola, C.R., Colwell, M.A., Taft, O.W., and Safran, R.J.
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study found that there is high variability between shorebirds and waterfowl with preferred water elevations. Sandpipers prefer 1–1.3 cm, within 10 m of the water's edge. Dunlin, Dowitchers, Black-necked Stilt, and the American Avocet prefer 3–9.5 cm, roughly 15–20 m from the edge. Green-winged teal prefers 13 cm, about 33 m from the edge. And finally the Northern Shoveler, Northern Pintail, and Gadwall prefer 22–25 cm, more than 45 m from the edge.
 
-Relevance to study (2-4 sentences):
+
+Relevance to study (2-4 sentences): Water elevation is our studied variable between waterfowl and shorebirds, since both taxonomic groups exhibit different preferences of water elevation, this highlights variability between their response to water elevation. Waterfowl may especially be sensitive to low water elevation periods because they prefer higher water elevations than shorebirds. 
+
 
 ### Paper 12
 
