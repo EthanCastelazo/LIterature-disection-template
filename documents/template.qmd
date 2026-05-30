@@ -189,15 +189,27 @@ Relevance to study (2-4 sentences): This report provides seasonal data (spring a
 
 ### Paper 9
 
-Title:
+Title: Trends in abundance of wintering waterbirds relative to rainfall patterns at a central California estuary, 1972–2015
 
-Authors:
+Authors: Stenzel, Page
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In this 2 period study on waterbird abundance patterns at Bolinas Lagoon located in Central California, researchers found a negative relationship between precipitation and waterbird abundance. Flooded ricefields and restored wetlands located in inland Central California, both of which are more prominent with high rainfall, caused coastal waterbirds to migrate more inland than stay at Bolinas Lagoon. 22 taxa used flooded ricefields as an alternative habitat with 12 out of the 22 taxa consistently shifting to ricefields when they flood, this suggests that local Bolinas waterbird distribution is linked to increased inland ricefield flooding.
 
-Relevance to study (2-4 sentences):
+
+Relevance to study (2-4 sentences): While our study examines the relationship between water elevation and waterfowl abundance, rainfall patterns are strictly tied to water elevation. Therefore, if water elevation increases and waterfowl abundance decreases, this doesn’t automatically correlate with local conditions not being good enough, but it could mean that other habitats inland have been established.
+
 
 ### Paper 10
+
+Title: Modeling the Relationship between Water Level, Wild Rice Abundance, and Waterfowl Abundance at a Central North American Wetland
+
+Authors: Kevin Aagaard, Josh Eash, Walt Ford, Patricia J. Heglund, Michelle McDowell & Wayne E. Thogmartin
+
+Main findings (2-4 sentences): This study took place at the Rice Lake Nation Wildlife Refuge in east Minnesota in the years 1990-2012 observing correlation between wild rice abundance and waterfowl from Spring to Fall. In this survey, no significant evidence was found that the wild rice was increasing waterfowl abundance in the refuge because wild rice is only a portion of the waterfowl diet, and this survey did not take place during peak wild rice growing season. Water elevation however, is directly correlated with wild rice abundance.
+
+Relevance to study (2-4 sentences): Since waterfowl abundance was not influenced by wild rice abundance from Spring-Fall, this provides evidence that any decline of waterfowl in NCOS isn’t attributed to the abundance of wild rice at in-land habitats. However, since wild rice growth is directly linked to water elevation, this effect can be more pronounced in the winter season when rainfall occurs often.
+
+### Paper 11
 
 Title:
 
