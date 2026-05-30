@@ -153,15 +153,13 @@ Main findings (2-4 sentences): In this study, researchers determined that gradua
 
 Relevance to study (2-4 sentences): Although our project is focused on bird abundance at NCOS, a designated wetland conservation area, insights about the correlation between wetlands and bird species abundance add important context about abundance levels possible in healthy wetland ecosystems to the abundance data we present. These insights provide valuable ecological insights to our own data, emphasizing the importance of the conservation efforts at NCOS.
 
-### Paper 6
+Title: Quantifying shorebird habitat in managed wetlands by modeling shallow water depth dynamics
 
-Title:
+Authors: Schaffer-Smith, Danica
 
-Authors:
+Main findings (2-4 sentences): Scientists can measure water depth with satellite imagery and high-resolution topography to determine the most suitable water depth ranges and broader habitat availability (@schaffer-smith2018). In this study, scientists found that moderate water depths (not extremely shallow or deep) had the highest habitat potential for shorebird species and even asserted that strategic maintenance of water levels could increase habitat suitability for birds.
 
-Main findings (2-4 sentences):
-
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): We are plotting species abundance on waterfowl and shorebird species in relation to water elevation. This report provides important insights into possible abundance patterns due to differences in water elevation; we may expect higher species abundance in the mid-range of water elevation as opposed to the shallower or deeper elevations.
 
 ### Paper 7
 
