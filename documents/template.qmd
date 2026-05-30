@@ -27,14 +27,14 @@ As a group:
 
 ## Table
 
-| Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
-|:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| 42                 | April 2025       | Spring           | South              | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677759503) |
-| 42                 | October 2024     | Fall             | South              | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687221407621) |
-| 42                 | April 2025       | Spring           | North East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677457084) |
-| 42                 | October 2024     | Fall             | North East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687228662238) |
-| 42                 | April 2025       | Spring           | South East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055670082237) |
-| 42                 | October 2024     | Fall             | South East         | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687230621022)|
+| Photo point number | Date of photo | Season | Direction of photo | Link to photo |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| 42 | April 2025 | Spring | South | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677759503) |
+| 42 | October 2024 | Fall | South | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687221407621) |
+| 42 | April 2025 | Spring | North East | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055677457084) |
+| 42 | October 2024 | Fall | North East | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687228662238) |
+| 42 | April 2025 | Spring | South East | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055670082237) |
+| 42 | October 2024 | Fall | South East | [here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1687230621022) |
 
 8.  Describe in 5-7 sentences total:
 
@@ -44,7 +44,7 @@ As a group:
 -   how that photo point is relevant to your study
 -   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
-We chose to examine photos from water year 2025, which started on October 1st 2024 and ended on September 30th 2025. Our study is focused on how water elevation's relationship to bird abundance, specifically in water year 2025, so photos from Fall 2024 and Spring 2025 are most relevant. We selected photo point 42, positioned on the Northern end of NCOS along the West Elings Marsh trail, because its photos capture a broad landscape of the slough's profile, and water elevation is easily observable from that perspective. 
+We chose to examine photos from water year 2025, which started on October 1st 2024 and ended on September 30th 2025. Our study is focused on how water elevation's relationship to bird abundance, specifically in water year 2025, so photos from Fall 2024 and Spring 2025 are most relevant. We selected photo point 42, positioned on the Northern end of NCOS along the West Elings Marsh trail, because its photos capture a broad landscape of the slough's profile, and water elevation is easily observable from that perspective.
 
 # Reports or posters
 
@@ -82,7 +82,7 @@ Relevance to your study (be specific here with the question you have asked, the 
 
 You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
 
-Note: while it may be tempting to use AI to provide a list of papers for you, you should _not_ be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
+Note: while it may be tempting to use AI to provide a list of papers for you, you should *not* be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
 
 Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
 
@@ -90,39 +90,38 @@ Additionally, you can test out inserting citations in Quarto. See [this resource
 
 Individually:
 
-1. Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
-2. Find 4-5 papers that might be relevant based on title and what shows up in the search.
-3. Read the abstracts of those 4-5 papers.
-4. Decide which - if any - are actually relevant to your project. Make a note of these papers.
-   Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
-5. If step 4 did not yield any relevant papers, repeat steps 2-4.
-6. Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
+1.  Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
+2.  Find 4-5 papers that might be relevant based on title and what shows up in the search.
+3.  Read the abstracts of those 4-5 papers.
+4.  Decide which - if any - are actually relevant to your project. Make a note of these papers. Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
+5.  If step 4 did not yield any relevant papers, repeat steps 2-4.
+6.  Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
 
 As a group:
 
-7. Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
-8. Fill in the template for an annotated bibliography below.
-9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
+7.  Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
+8.  Fill in the template for an annotated bibliography below.
+9.  In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
 ### Paper 1
 
-Title:
+Title: "Monitoring waterbird abundance in wetlands: The importance of controlling results for variation in water depth"
 
-Authors:
+Authors: Bolduc, Afton
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In most non-diving waterbirds, abundance can predicted through a non-linear relationship with wetland water elevation [@bolduc2008]. Abundance is low when water depth is 0, increasing as water height increases until a maximum is reached, then declining back to zero when depth becomes too deep to support foraging. After modeling abundance trends of two different hypothetical waterbird species (one generalist species and one specialist species) in four different hypothetical wetland habitats (differing in water height), the researchers found that relatively corrected abundance of the generalist species varied greatly among wetland types, indicating water height has a significant impact on average abundance.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Water elevation at NCOS is highly variable over the course of a given water year, meaning average Waterbird abundance is subject to change based on the hydrologic regime of Devereux Slough, according to the findings of Bolduc and Afton. The author's do mention, however, that Shorebirds are one group that diverges from the trends they plotted. Although they did not expand on this caveat, this was an important detail of their publication in relation to our study, as Shorebirds are one of two groups we're choosing to investigate. We'll need to keep this in mind moving forward.
 
 ### Paper 2
 
-Title:
+Title: "Effects of Water Level Fluctuation on Waterbirds Distribution and Aquatic Vegetation Composition at Natural Wetland Reserve, Peninsular Malaysia"
 
-Authors:
+Authors: Rajpar, Zakaria
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In this study conducted in Peninsular Malaysia, researchers found water level to be a major factor that influences the relative abundance and distribution of ducks [@rajpar2011a], along with many other families of bird that are not relevant to our study. Water elevation directly effects aquatic vegetation composition, which in turn determines the hunting and nesting patterns of waterbirds, therefore water level reflects the status/quality of habitat for waterbirds at a given time.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Although this research was conducted in a distant region whose wetland species composition differs greatly from that of the Devereux Slough, these findings connect the dots between aquatic vegetation, water level, and waterbird abundance. This paper reminds us that we must consider *all* factors that play a role in determining bird abundance, including aquatic vegetation dynamics, when contextualizing our own findings, even though vegetation may not be included in our research quesitons.
 
 ### Paper 3
 
@@ -215,4 +214,3 @@ Main findings (2-4 sentences):
 Relevance to study (2-4 sentences):
 
 # References
-
