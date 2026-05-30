@@ -223,12 +223,14 @@ Relevance to study (2-4 sentences): Water elevation is our studied variable betw
 
 ### Paper 12
 
-Title:
+Title: Monitoring Species Richness and Abundance of Shorebirds in the Western Great Basin
 
-Authors:
+Authors: Nils Warnock, Susan M. Haig
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Although year to year variability of shorebird counts were extreme when observed in wetlands of the Western Great Basin, the general consensus from this study is that different shorebird species prefer different water elevations. However, these preferences are strict because of the length of the species’ bill and legs. Additionally, the study found that both ground surveys and aerial surveys alone are insufficient: ground surveys capture species diversity while being unable to estimate population size while aerial surveys provide the opposite information.
 
-Relevance to study (2-4 sentences):
+
+Relevance to study (2-4 sentences): The data of NCOS bird counts itself may be skewed if ground and aerial surveys were not taken in tandem, just as this Great Basin survey found. Additionally, this study provides further evidence that shorebirds are sensitive to different water elevations, with some species utilizing shallower depths than others, therefore exemplifying the sensitivity of shorebird abundance to water elevation.
+
 
 # References
