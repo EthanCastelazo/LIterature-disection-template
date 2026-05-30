@@ -70,12 +70,11 @@ Year published: 2015
 
 Permalink: [here](https://escholarship.org/uc/item/1sg3v19d)
 
-Dataset used (likely): Table 3.3 (Common and abundant species at selected sites in surveys from 1990 to 2014), 
+Dataset used (likely): Table 3.3 (Common and abundant species at selected sites in surveys from 1990 to 2014),
 
 Key insights: Single-day and mean abundances of bird species across locations at NCOS from 1990-2014. The species with the highest mean abundances at each site are, for the most part, not within the taxon we are focusing on (shorebirds and waterfowl). However, the single-day abundance data provides us with some valuable metrics to compare our own data to, it provides abundance measurements for a variety of sandpiper species (shorebirds) and geese (waterfowl). Across all species, the waterfowl and shorebird taxons did not display the most abundant species at any location, but just comparing the two taxonomic groups, shorebird species were generally more abundant than waterfowl species.
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): Our plots are visualizing bird species abundance within the waterfowl and shorebird taxonomic groups at NCOS, in relation to water elevation. We also have subplots that compare species abundance between shorebirds and waterfowl through time. This report provides relevant species abundance information at NCOS, which we can compare to our plots to identify changes and trends through time. It is important to acknowledge that this figure does not include abundance data for every species across every site and only includes data from 1990-2014.
-
 
 # Annotated bibliography
 
@@ -126,13 +125,13 @@ Relevance to study (2-4 sentences): Although this research was conducted in a di
 
 ### Paper 3
 
-Title:
+Title: Enhanced Migratory Waterfowl Distribution Modeling by Inclusion of Depth to Water Table Data
 
-Authors:
+Authors: Kreakie, Fan, Keitt
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): By applying a Depth to Water Table (DWT) to waterfowl distribution models, researchers increased modeling accuracy - a significant addition to waterfowl models, as they usually perform at a worse accuracy compared to other bird species distribution models [@kreakie2012]. The authors found that the DWT's ability to predict (a dynamic global dataset at 270m resolution) changes to wetland water levels according to changes in the environment, will allow for more mechanistic predictions of how wetland species will respond.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This publication is centered mostly on modeling techniques and applying remotely sensed data (the DWT) to model waterfowl distribution trends at a national scale, which doesn't align very closely to the methods or goals of our project. That said, this article is still relevant to our research question because it places such high importance on water elevation as a controlling factor in the context of waterfowl abundance. Their results, which showed models that use the DWT report higher accuracy compared to those that don't use it, indicate that water elevation is a significant causal variable that's worth investigating in our study.
 
 ### Paper 4
 
@@ -140,9 +139,9 @@ Title:
 
 Authors:
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): In this long-term study conducted along an 83 km stretch of the Danube River, researchers found that total waterbird abundance was negatively correlated with water level throughout the water year [@faragó2012]. During flood events, dabbling ducks dispersed to peripheral waters outside the survey area, while diving ducks abandoned the study reach entirely due to reduced foraging efficiency in the intense flood waters. High water levels were also found to eliminate key micro habitats such as gravel banks, shoals, and paved riverbanks, creating conditions broadly unfavorable for most waterbird species.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper provides good empirical support for a negative relationship between elevated water levels and waterbird abundance, which is directly relevant to interpreting abundance trends at Devereux Slough as water elevation fluctuates across the water year. The study's distinction between dabbling ducks and diving ducks in their responses to high water is particularly useful for our research, because it highlights that different  groups within waterfowl respond to hydrologic change in different ways. We should keep in mind, however, that the Danube is a large, fast-flowing river system whose hydrology differs significantly from the shallow, tidally influenced conditions of NCOS, so the mechanisms driving abundance declines may not translate directly to our study site.
 
 ### Paper 5
 
