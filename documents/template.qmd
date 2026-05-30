@@ -169,9 +169,13 @@ Title: Waterbird Communities in Managed Wetlands of Varying Water Depth
 
 Authors: Colwell, M.A.
 
-Main findings (2-4 sentences): In this study, scientists found a strong correlation between bird abundance and water depth, specifically that to promote the greatest species abundance and density, managed wetlands should flood to about 10-20 cm for variable depths that support a variety of species (citation). This is mainly due to the fact that wading birds and waterfowl have the ecological niche of shallower water while other driving species are better suited to deeper water.
+Main findings (2-4 sentences): In this study, scientists found a strong correlation between bird abundance and water depth, specifically that to promote the greatest species abundance and density, managed wetlands should flood to about 10-20 cm for variable depths that support a variety of species. This is mainly due to the fact that wading birds and waterfowl have the ecological niche of shallower water while other driving species are better suited to deeper water.
 
 Relevance to study (2-4 sentences): Since we are focusing on waterfowl and shorebird species, we can consider the conclusion that shallower water elevations support greater species abundance across all measured species. We can compare this metric to our own data to better articulate possible contributors to trends in abundance.
+
+\*Could not find DOI for this report
+
+Colwell, M. A., & O. W. Taft. (2000). Waterbird Communities in Managed Wetlands of Varying Water Depth. *Waterbirds: The International Journal of Waterbird Biology*, *23*(1), 45–55. http://www.jstor.org/stable/4641109\*
 
 ### Paper 8
 
